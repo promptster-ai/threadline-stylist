@@ -1,0 +1,26 @@
+{
+  "name": "threadline-stylist",
+  "image": "ghcr.io/pa-arth/promptster-assessment-plain:5c1debba0f3ffe83",
+  "onCreateCommand": "set -e\nmarker=\"${PROMPTSTER_HOSTED_SETUP_MARKER:-$HOME/.promptster/hosted-setup-complete}\"\nmkdir -p \"$(dirname \"$marker\")\"\nrm -f \"$marker\" \"$marker.tmp\"\nstarted_at=\"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"\nstarted_epoch=\"$(date -u +%s)\"\n(\npip3 install --user -e \".[dev]\"\n)\ncompleted_at=\"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"\ncompleted_epoch=\"$(date -u +%s)\"\n{\n  echo \"schema=1\"\n  echo \"startedAt=$started_at\"\n  echo \"completedAt=$completed_at\"\n  echo \"setupSeconds=$((completed_epoch - started_epoch))\"\n  echo \"prebuildEnvRaw=${CODESPACE_PREBUILD-}\"\n  echo \"prebuildEnvSet=$(if [ -n \"${CODESPACE_PREBUILD+x}\" ]; then echo yes; else echo no; fi)\"\n  echo \"codespaceName=${CODESPACE_NAME-}\"\n  echo \"issueId=${PROMPTSTER_ISSUE_ID-}\"\n} > \"$marker.tmp\"\nmv -f \"$marker.tmp\" \"$marker\"",
+  "waitFor": "onCreateCommand",
+  "postAttachCommand": "promptster start",
+  "remoteUser": "vscode",
+  "containerEnv": {
+    "PROMPTSTER_HOSTED_LANE": "1",
+    "PROMPTSTER_ISSUE_ID": "threadline-stylist",
+    "PROMPTSTER_SETUP_MARKER_CONTRACT": "1"
+  },
+  "hostRequirements": {
+    "cpus": 2
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "anthropic.claude-code"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  }
+}

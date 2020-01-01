@@ -1,0 +1,5789 @@
+[
+  {
+    "id": "TL-0000",
+    "name": "Olive Tailored accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 33.49,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0001",
+    "name": "White Oversized outerwear",
+    "category": "outerwear",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 141.4,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0002",
+    "name": "Burgundy Regular shoe",
+    "category": "shoes",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 61.68,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0003",
+    "name": "White Regular outerwear",
+    "category": "outerwear",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 149.99,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0004",
+    "name": "Olive Tailored top",
+    "category": "tops",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 54.88,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0005",
+    "name": "Forest Oversized bottom",
+    "category": "bottoms",
+    "color": "forest",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 94.23,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0006",
+    "name": "Olive Slim accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "winter",
+    "price": 34.37,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0007",
+    "name": "Burgundy Oversized bottom",
+    "category": "bottoms",
+    "color": "burgundy",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 45.42,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0008",
+    "name": "White Relaxed bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 63.06,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0009",
+    "name": "Olive Regular shoe",
+    "category": "shoes",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 58.56,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0010",
+    "name": "Rust Relaxed shoe",
+    "category": "shoes",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 93.4,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0011",
+    "name": "Navy Oversized top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "print",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 17.22,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0012",
+    "name": "White Regular top",
+    "category": "tops",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 59.96,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0013",
+    "name": "Rust Slim bottom",
+    "category": "bottoms",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 62.54,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0014",
+    "name": "White Oversized bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 73.66,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0015",
+    "name": "Camel Regular outerwear",
+    "category": "outerwear",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "summer",
+    "price": 193.61,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0016",
+    "name": "Rust Slim top",
+    "category": "tops",
+    "color": "rust",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "summer",
+    "price": 25.94,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0017",
+    "name": "Grey Slim shoe",
+    "category": "shoes",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "fall",
+    "price": 158.0,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0018",
+    "name": "Blush Oversized accessorie",
+    "category": "accessories",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 21.09,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0019",
+    "name": "Cobalt Relaxed outerwear",
+    "category": "outerwear",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 163.53,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0020",
+    "name": "Forest Oversized outerwear",
+    "category": "outerwear",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 75.03,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0021",
+    "name": "Cobalt Regular top",
+    "category": "tops",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "spring",
+    "price": 24.08,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0022",
+    "name": "Olive Relaxed outerwear",
+    "category": "outerwear",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 87.33,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0023",
+    "name": "Rust Tailored bottom",
+    "category": "bottoms",
+    "color": "rust",
+    "pattern": "print",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 73.28,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0024",
+    "name": "Grey Tailored top",
+    "category": "tops",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 22.96,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0025",
+    "name": "Black Oversized top",
+    "category": "tops",
+    "color": "black",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 35.58,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0026",
+    "name": "Cobalt Regular dresse",
+    "category": "dresses",
+    "color": "cobalt",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "spring",
+    "price": 97.81,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0027",
+    "name": "Blush Tailored bottom",
+    "category": "bottoms",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 46.25,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0028",
+    "name": "Rust Tailored bottom",
+    "category": "bottoms",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 86.41,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0029",
+    "name": "Olive Oversized accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 22.35,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0030",
+    "name": "White Regular bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "spring",
+    "price": 46.48,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0031",
+    "name": "Burgundy Relaxed top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 24.98,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0032",
+    "name": "Beige Relaxed bottom",
+    "category": "bottoms",
+    "color": "beige",
+    "pattern": "print",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 47.88,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0033",
+    "name": "Blush Oversized shoe",
+    "category": "shoes",
+    "color": "blush",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 49.34,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0034",
+    "name": "Forest Tailored bottom",
+    "category": "bottoms",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 74.3,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0035",
+    "name": "Black Relaxed dresse",
+    "category": "dresses",
+    "color": "black",
+    "pattern": "check",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 51.88,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0036",
+    "name": "Burgundy Regular shoe",
+    "category": "shoes",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 46.39,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0037",
+    "name": "Camel Slim bottom",
+    "category": "bottoms",
+    "color": "camel",
+    "pattern": "print",
+    "fit": "slim",
+    "season": "fall",
+    "price": 71.45,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0038",
+    "name": "Navy Relaxed shoe",
+    "category": "shoes",
+    "color": "navy",
+    "pattern": "floral",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 91.81,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0039",
+    "name": "Camel Regular top",
+    "category": "tops",
+    "color": "camel",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "summer",
+    "price": 30.44,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0040",
+    "name": "Navy Slim outerwear",
+    "category": "outerwear",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "winter",
+    "price": 97.2,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0041",
+    "name": "Blush Relaxed dresse",
+    "category": "dresses",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 104.1,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0042",
+    "name": "White Regular bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 67.46,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0043",
+    "name": "Rust Oversized shoe",
+    "category": "shoes",
+    "color": "rust",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 106.75,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0044",
+    "name": "Navy Slim top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 22.59,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0045",
+    "name": "Forest Regular top",
+    "category": "tops",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "spring",
+    "price": 16.36,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0046",
+    "name": "Cobalt Tailored shoe",
+    "category": "shoes",
+    "color": "cobalt",
+    "pattern": "print",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 140.33,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0047",
+    "name": "Camel Tailored top",
+    "category": "tops",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 53.57,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0048",
+    "name": "Burgundy Relaxed top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 25.55,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0049",
+    "name": "Rust Tailored bottom",
+    "category": "bottoms",
+    "color": "rust",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 86.43,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0050",
+    "name": "Navy Regular top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 23.14,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0051",
+    "name": "Black Relaxed top",
+    "category": "tops",
+    "color": "black",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 24.67,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0052",
+    "name": "Beige Relaxed top",
+    "category": "tops",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 46.53,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0053",
+    "name": "Olive Oversized dresse",
+    "category": "dresses",
+    "color": "olive",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 84.58,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0054",
+    "name": "Beige Relaxed accessorie",
+    "category": "accessories",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 18.53,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0055",
+    "name": "Rust Tailored shoe",
+    "category": "shoes",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 102.51,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0056",
+    "name": "White Oversized accessorie",
+    "category": "accessories",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 21.23,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0057",
+    "name": "Camel Regular bottom",
+    "category": "bottoms",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 72.24,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0058",
+    "name": "Camel Oversized top",
+    "category": "tops",
+    "color": "camel",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 33.01,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0059",
+    "name": "Camel Tailored outerwear",
+    "category": "outerwear",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 61.18,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0060",
+    "name": "Cobalt Oversized top",
+    "category": "tops",
+    "color": "cobalt",
+    "pattern": "print",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 18.02,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0061",
+    "name": "White Regular shoe",
+    "category": "shoes",
+    "color": "white",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "spring",
+    "price": 73.83,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0062",
+    "name": "Black Slim shoe",
+    "category": "shoes",
+    "color": "black",
+    "pattern": "check",
+    "fit": "slim",
+    "season": "summer",
+    "price": 55.61,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0063",
+    "name": "Grey Oversized top",
+    "category": "tops",
+    "color": "grey",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 19.53,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0064",
+    "name": "Grey Tailored top",
+    "category": "tops",
+    "color": "grey",
+    "pattern": "floral",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 24.04,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0065",
+    "name": "Forest Oversized top",
+    "category": "tops",
+    "color": "forest",
+    "pattern": "print",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 18.91,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0066",
+    "name": "Blush Regular bottom",
+    "category": "bottoms",
+    "color": "blush",
+    "pattern": "print",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 65.72,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0067",
+    "name": "Rust Regular bottom",
+    "category": "bottoms",
+    "color": "rust",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 91.8,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0068",
+    "name": "Cobalt Tailored accessorie",
+    "category": "accessories",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 54.08,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0069",
+    "name": "White Regular bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 78.96,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0070",
+    "name": "Beige Slim shoe",
+    "category": "shoes",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "winter",
+    "price": 81.55,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0071",
+    "name": "Blush Oversized dresse",
+    "category": "dresses",
+    "color": "blush",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 72.17,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0072",
+    "name": "Forest Slim outerwear",
+    "category": "outerwear",
+    "color": "forest",
+    "pattern": "check",
+    "fit": "slim",
+    "season": "winter",
+    "price": 83.4,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0073",
+    "name": "Camel Oversized bottom",
+    "category": "bottoms",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 66.22,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0074",
+    "name": "Grey Regular outerwear",
+    "category": "outerwear",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 138.17,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0075",
+    "name": "Rust Tailored outerwear",
+    "category": "outerwear",
+    "color": "rust",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 78.33,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0076",
+    "name": "Beige Tailored outerwear",
+    "category": "outerwear",
+    "color": "beige",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 88.19,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0077",
+    "name": "Rust Slim shoe",
+    "category": "shoes",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "fall",
+    "price": 90.88,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0078",
+    "name": "Camel Regular shoe",
+    "category": "shoes",
+    "color": "camel",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "winter",
+    "price": 127.96,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0079",
+    "name": "Forest Relaxed top",
+    "category": "tops",
+    "color": "forest",
+    "pattern": "print",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 15.44,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0080",
+    "name": "Grey Slim shoe",
+    "category": "shoes",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "spring",
+    "price": 71.62,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0081",
+    "name": "Burgundy Slim bottom",
+    "category": "bottoms",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 76.49,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0082",
+    "name": "Forest Oversized accessorie",
+    "category": "accessories",
+    "color": "forest",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 34.15,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0083",
+    "name": "Camel Relaxed top",
+    "category": "tops",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 22.03,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0084",
+    "name": "Forest Slim accessorie",
+    "category": "accessories",
+    "color": "forest",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "summer",
+    "price": 28.86,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0085",
+    "name": "Navy Tailored shoe",
+    "category": "shoes",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 124.12,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0086",
+    "name": "Burgundy Regular shoe",
+    "category": "shoes",
+    "color": "burgundy",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "spring",
+    "price": 117.35,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0087",
+    "name": "Camel Regular outerwear",
+    "category": "outerwear",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 138.02,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0088",
+    "name": "White Tailored bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 74.13,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0089",
+    "name": "Navy Relaxed shoe",
+    "category": "shoes",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 59.89,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0090",
+    "name": "Olive Relaxed top",
+    "category": "tops",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 37.18,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0091",
+    "name": "Cobalt Oversized bottom",
+    "category": "bottoms",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 72.33,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0092",
+    "name": "White Regular shoe",
+    "category": "shoes",
+    "color": "white",
+    "pattern": "stripe",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 59.02,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0093",
+    "name": "Beige Slim outerwear",
+    "category": "outerwear",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "fall",
+    "price": 91.41,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0094",
+    "name": "Navy Oversized bottom",
+    "category": "bottoms",
+    "color": "navy",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 42.55,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0095",
+    "name": "Navy Regular top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "winter",
+    "price": 18.05,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0096",
+    "name": "Rust Slim dresse",
+    "category": "dresses",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "fall",
+    "price": 92.67,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0097",
+    "name": "Rust Oversized top",
+    "category": "tops",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 49.6,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0098",
+    "name": "Blush Oversized top",
+    "category": "tops",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 29.05,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0099",
+    "name": "Camel Relaxed top",
+    "category": "tops",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 27.43,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0100",
+    "name": "Olive Relaxed outerwear",
+    "category": "outerwear",
+    "color": "olive",
+    "pattern": "print",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 83.15,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0101",
+    "name": "White Tailored dresse",
+    "category": "dresses",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 53.23,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0102",
+    "name": "Forest Slim bottom",
+    "category": "bottoms",
+    "color": "forest",
+    "pattern": "check",
+    "fit": "slim",
+    "season": "fall",
+    "price": 68.63,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0103",
+    "name": "Beige Slim accessorie",
+    "category": "accessories",
+    "color": "beige",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 17.64,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0104",
+    "name": "Navy Regular top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 31.13,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0105",
+    "name": "Beige Tailored dresse",
+    "category": "dresses",
+    "color": "beige",
+    "pattern": "check",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 104.17,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0106",
+    "name": "White Tailored accessorie",
+    "category": "accessories",
+    "color": "white",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 27.78,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0107",
+    "name": "Burgundy Slim shoe",
+    "category": "shoes",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "spring",
+    "price": 130.3,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0108",
+    "name": "White Oversized shoe",
+    "category": "shoes",
+    "color": "white",
+    "pattern": "print",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 46.94,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0109",
+    "name": "Beige Regular bottom",
+    "category": "bottoms",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 61.18,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0110",
+    "name": "White Relaxed top",
+    "category": "tops",
+    "color": "white",
+    "pattern": "floral",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 37.17,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0111",
+    "name": "Beige Slim bottom",
+    "category": "bottoms",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 83.04,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0112",
+    "name": "Black Relaxed top",
+    "category": "tops",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 29.02,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0113",
+    "name": "Black Slim top",
+    "category": "tops",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 32.43,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0114",
+    "name": "Beige Tailored dresse",
+    "category": "dresses",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 127.77,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0115",
+    "name": "White Tailored bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 63.05,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0116",
+    "name": "Olive Relaxed accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 34.48,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0117",
+    "name": "Navy Tailored top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "check",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 27.48,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0118",
+    "name": "White Oversized outerwear",
+    "category": "outerwear",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 95.78,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0119",
+    "name": "Forest Slim shoe",
+    "category": "shoes",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "summer",
+    "price": 57.39,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0120",
+    "name": "Navy Relaxed outerwear",
+    "category": "outerwear",
+    "color": "navy",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 185.17,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0121",
+    "name": "Beige Regular outerwear",
+    "category": "outerwear",
+    "color": "beige",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "spring",
+    "price": 172.44,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0122",
+    "name": "Beige Regular bottom",
+    "category": "bottoms",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 84.27,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0123",
+    "name": "Black Relaxed accessorie",
+    "category": "accessories",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 55.44,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0124",
+    "name": "Olive Regular shoe",
+    "category": "shoes",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 60.28,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0125",
+    "name": "White Oversized top",
+    "category": "tops",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 26.17,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0126",
+    "name": "White Oversized shoe",
+    "category": "shoes",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 73.69,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0127",
+    "name": "White Oversized dresse",
+    "category": "dresses",
+    "color": "white",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 83.45,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0128",
+    "name": "Black Regular top",
+    "category": "tops",
+    "color": "black",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 22.59,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0129",
+    "name": "White Relaxed accessorie",
+    "category": "accessories",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 17.08,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0130",
+    "name": "Grey Slim dresse",
+    "category": "dresses",
+    "color": "grey",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "winter",
+    "price": 53.17,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0131",
+    "name": "Burgundy Tailored top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "print",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 22.58,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0132",
+    "name": "Forest Tailored accessorie",
+    "category": "accessories",
+    "color": "forest",
+    "pattern": "floral",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 31.05,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0133",
+    "name": "Olive Oversized accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 35.15,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0134",
+    "name": "Navy Regular accessorie",
+    "category": "accessories",
+    "color": "navy",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "summer",
+    "price": 31.87,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0135",
+    "name": "Rust Regular shoe",
+    "category": "shoes",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 81.83,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0136",
+    "name": "Black Tailored outerwear",
+    "category": "outerwear",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 112.89,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0137",
+    "name": "Olive Tailored top",
+    "category": "tops",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 49.98,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0138",
+    "name": "Forest Relaxed dresse",
+    "category": "dresses",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 65.3,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0139",
+    "name": "Grey Regular dresse",
+    "category": "dresses",
+    "color": "grey",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 75.97,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0140",
+    "name": "Rust Tailored shoe",
+    "category": "shoes",
+    "color": "rust",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 56.25,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0141",
+    "name": "Burgundy Oversized top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 19.17,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0142",
+    "name": "Navy Tailored outerwear",
+    "category": "outerwear",
+    "color": "navy",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 85.25,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0143",
+    "name": "White Tailored top",
+    "category": "tops",
+    "color": "white",
+    "pattern": "floral",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 40.56,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0144",
+    "name": "Forest Slim accessorie",
+    "category": "accessories",
+    "color": "forest",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 20.56,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0145",
+    "name": "Black Oversized accessorie",
+    "category": "accessories",
+    "color": "black",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 20.43,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0146",
+    "name": "Grey Regular top",
+    "category": "tops",
+    "color": "grey",
+    "pattern": "stripe",
+    "fit": "regular",
+    "season": "fall",
+    "price": 15.26,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0147",
+    "name": "Olive Tailored shoe",
+    "category": "shoes",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 96.61,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0148",
+    "name": "Camel Slim dresse",
+    "category": "dresses",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 43.88,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0149",
+    "name": "Beige Regular bottom",
+    "category": "bottoms",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 73.0,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0150",
+    "name": "Camel Regular accessorie",
+    "category": "accessories",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 39.12,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0151",
+    "name": "Camel Relaxed accessorie",
+    "category": "accessories",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 40.83,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0152",
+    "name": "Grey Regular accessorie",
+    "category": "accessories",
+    "color": "grey",
+    "pattern": "stripe",
+    "fit": "regular",
+    "season": "fall",
+    "price": 15.97,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0153",
+    "name": "Burgundy Oversized outerwear",
+    "category": "outerwear",
+    "color": "burgundy",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 142.97,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0154",
+    "name": "Burgundy Oversized top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 13.84,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0155",
+    "name": "White Slim bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "winter",
+    "price": 88.43,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0156",
+    "name": "Rust Relaxed bottom",
+    "category": "bottoms",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 64.11,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0157",
+    "name": "Grey Relaxed outerwear",
+    "category": "outerwear",
+    "color": "grey",
+    "pattern": "print",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 80.92,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0158",
+    "name": "Rust Relaxed dresse",
+    "category": "dresses",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 119.94,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0159",
+    "name": "Beige Oversized shoe",
+    "category": "shoes",
+    "color": "beige",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 87.55,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0160",
+    "name": "White Tailored top",
+    "category": "tops",
+    "color": "white",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 36.49,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0161",
+    "name": "Grey Relaxed accessorie",
+    "category": "accessories",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 17.44,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0162",
+    "name": "Camel Regular shoe",
+    "category": "shoes",
+    "color": "camel",
+    "pattern": "stripe",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 71.44,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0163",
+    "name": "Black Regular outerwear",
+    "category": "outerwear",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 167.82,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0164",
+    "name": "Camel Oversized bottom",
+    "category": "bottoms",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 97.86,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0165",
+    "name": "Blush Slim shoe",
+    "category": "shoes",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "summer",
+    "price": 70.47,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0166",
+    "name": "Burgundy Regular top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "summer",
+    "price": 31.13,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0167",
+    "name": "Blush Tailored bottom",
+    "category": "bottoms",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 72.24,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0168",
+    "name": "Navy Relaxed top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 61.86,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0169",
+    "name": "Olive Oversized shoe",
+    "category": "shoes",
+    "color": "olive",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 61.28,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0170",
+    "name": "Beige Oversized top",
+    "category": "tops",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 49.95,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0171",
+    "name": "Blush Oversized accessorie",
+    "category": "accessories",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 28.86,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0172",
+    "name": "Burgundy Tailored top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 28.11,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0173",
+    "name": "Navy Slim dresse",
+    "category": "dresses",
+    "color": "navy",
+    "pattern": "check",
+    "fit": "slim",
+    "season": "spring",
+    "price": 52.69,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0174",
+    "name": "Forest Relaxed bottom",
+    "category": "bottoms",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 55.4,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0175",
+    "name": "Beige Oversized outerwear",
+    "category": "outerwear",
+    "color": "beige",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 103.83,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0176",
+    "name": "Navy Regular accessorie",
+    "category": "accessories",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 25.59,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0177",
+    "name": "Forest Regular outerwear",
+    "category": "outerwear",
+    "color": "forest",
+    "pattern": "stripe",
+    "fit": "regular",
+    "season": "summer",
+    "price": 61.44,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0178",
+    "name": "White Slim top",
+    "category": "tops",
+    "color": "white",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "summer",
+    "price": 47.22,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0179",
+    "name": "Beige Oversized shoe",
+    "category": "shoes",
+    "color": "beige",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 114.15,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0180",
+    "name": "Black Tailored bottom",
+    "category": "bottoms",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 42.17,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0181",
+    "name": "Olive Slim top",
+    "category": "tops",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 26.67,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0182",
+    "name": "Blush Tailored dresse",
+    "category": "dresses",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 44.67,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0183",
+    "name": "White Slim bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "summer",
+    "price": 60.18,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0184",
+    "name": "Cobalt Relaxed top",
+    "category": "tops",
+    "color": "cobalt",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 18.98,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0185",
+    "name": "Olive Oversized top",
+    "category": "tops",
+    "color": "olive",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 39.2,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0186",
+    "name": "Black Tailored shoe",
+    "category": "shoes",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 46.18,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0187",
+    "name": "Black Tailored top",
+    "category": "tops",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 12.0,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0188",
+    "name": "Olive Oversized dresse",
+    "category": "dresses",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 75.35,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0189",
+    "name": "Camel Tailored top",
+    "category": "tops",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 21.4,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0190",
+    "name": "Cobalt Slim top",
+    "category": "tops",
+    "color": "cobalt",
+    "pattern": "check",
+    "fit": "slim",
+    "season": "spring",
+    "price": 40.98,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0191",
+    "name": "Beige Relaxed shoe",
+    "category": "shoes",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 109.71,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0192",
+    "name": "Burgundy Slim bottom",
+    "category": "bottoms",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "spring",
+    "price": 64.27,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0193",
+    "name": "Burgundy Slim top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "summer",
+    "price": 23.25,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0194",
+    "name": "Camel Tailored bottom",
+    "category": "bottoms",
+    "color": "camel",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 55.32,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0195",
+    "name": "Beige Tailored top",
+    "category": "tops",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 33.0,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0196",
+    "name": "Beige Tailored top",
+    "category": "tops",
+    "color": "beige",
+    "pattern": "print",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 40.17,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0197",
+    "name": "Black Tailored accessorie",
+    "category": "accessories",
+    "color": "black",
+    "pattern": "check",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 22.25,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0198",
+    "name": "White Slim bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "winter",
+    "price": 36.82,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0199",
+    "name": "Blush Oversized top",
+    "category": "tops",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 60.63,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0200",
+    "name": "Rust Relaxed bottom",
+    "category": "bottoms",
+    "color": "rust",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 78.98,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0201",
+    "name": "Navy Tailored bottom",
+    "category": "bottoms",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 47.76,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0202",
+    "name": "Olive Oversized accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 26.35,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0203",
+    "name": "Burgundy Regular bottom",
+    "category": "bottoms",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 36.57,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0204",
+    "name": "Navy Slim outerwear",
+    "category": "outerwear",
+    "color": "navy",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "winter",
+    "price": 119.29,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0205",
+    "name": "White Oversized bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 93.75,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0206",
+    "name": "Cobalt Regular dresse",
+    "category": "dresses",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "spring",
+    "price": 58.89,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0207",
+    "name": "Rust Oversized top",
+    "category": "tops",
+    "color": "rust",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 35.08,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0208",
+    "name": "Navy Oversized top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 33.64,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0209",
+    "name": "Grey Tailored shoe",
+    "category": "shoes",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 87.34,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0210",
+    "name": "Blush Regular top",
+    "category": "tops",
+    "color": "blush",
+    "pattern": "stripe",
+    "fit": "regular",
+    "season": "fall",
+    "price": 27.64,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0211",
+    "name": "Grey Regular outerwear",
+    "category": "outerwear",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "spring",
+    "price": 92.15,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0212",
+    "name": "Cobalt Tailored accessorie",
+    "category": "accessories",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 32.61,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0213",
+    "name": "Rust Oversized bottom",
+    "category": "bottoms",
+    "color": "rust",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 51.79,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0214",
+    "name": "Blush Tailored bottom",
+    "category": "bottoms",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 85.88,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0215",
+    "name": "Black Regular shoe",
+    "category": "shoes",
+    "color": "black",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 84.86,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0216",
+    "name": "Burgundy Relaxed bottom",
+    "category": "bottoms",
+    "color": "burgundy",
+    "pattern": "check",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 78.31,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0217",
+    "name": "Grey Relaxed top",
+    "category": "tops",
+    "color": "grey",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 21.13,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0218",
+    "name": "Forest Regular shoe",
+    "category": "shoes",
+    "color": "forest",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "fall",
+    "price": 104.14,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0219",
+    "name": "Olive Relaxed accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 24.37,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0220",
+    "name": "Beige Slim top",
+    "category": "tops",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "summer",
+    "price": 21.6,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0221",
+    "name": "Camel Relaxed top",
+    "category": "tops",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 23.54,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0222",
+    "name": "Navy Tailored outerwear",
+    "category": "outerwear",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 141.78,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0223",
+    "name": "Navy Slim bottom",
+    "category": "bottoms",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "winter",
+    "price": 66.64,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0224",
+    "name": "White Regular accessorie",
+    "category": "accessories",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "summer",
+    "price": 48.4,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0225",
+    "name": "Rust Relaxed shoe",
+    "category": "shoes",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 69.26,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0226",
+    "name": "White Slim outerwear",
+    "category": "outerwear",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 212.4,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0227",
+    "name": "Blush Slim shoe",
+    "category": "shoes",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "spring",
+    "price": 153.76,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0228",
+    "name": "Black Relaxed shoe",
+    "category": "shoes",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 116.06,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0229",
+    "name": "Blush Tailored dresse",
+    "category": "dresses",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 113.93,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0230",
+    "name": "Cobalt Regular accessorie",
+    "category": "accessories",
+    "color": "cobalt",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "winter",
+    "price": 38.23,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0231",
+    "name": "Olive Regular top",
+    "category": "tops",
+    "color": "olive",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "summer",
+    "price": 13.54,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0232",
+    "name": "Cobalt Slim bottom",
+    "category": "bottoms",
+    "color": "cobalt",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "fall",
+    "price": 79.18,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0233",
+    "name": "Blush Slim dresse",
+    "category": "dresses",
+    "color": "blush",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "spring",
+    "price": 46.02,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0234",
+    "name": "Black Slim bottom",
+    "category": "bottoms",
+    "color": "black",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "spring",
+    "price": 79.44,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0235",
+    "name": "Navy Relaxed top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 32.76,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0236",
+    "name": "Navy Tailored bottom",
+    "category": "bottoms",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 53.34,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0237",
+    "name": "Beige Tailored shoe",
+    "category": "shoes",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 97.36,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0238",
+    "name": "Blush Slim bottom",
+    "category": "bottoms",
+    "color": "blush",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "summer",
+    "price": 73.69,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0239",
+    "name": "Burgundy Relaxed top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 40.06,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0240",
+    "name": "White Oversized outerwear",
+    "category": "outerwear",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 182.53,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0241",
+    "name": "Olive Slim top",
+    "category": "tops",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 23.32,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0242",
+    "name": "Blush Tailored top",
+    "category": "tops",
+    "color": "blush",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 32.37,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0243",
+    "name": "Blush Slim accessorie",
+    "category": "accessories",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "spring",
+    "price": 25.56,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0244",
+    "name": "Blush Tailored shoe",
+    "category": "shoes",
+    "color": "blush",
+    "pattern": "check",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 62.71,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0245",
+    "name": "Blush Slim outerwear",
+    "category": "outerwear",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 210.84,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0246",
+    "name": "Grey Relaxed shoe",
+    "category": "shoes",
+    "color": "grey",
+    "pattern": "print",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 105.8,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0247",
+    "name": "Grey Oversized outerwear",
+    "category": "outerwear",
+    "color": "grey",
+    "pattern": "print",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 89.94,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0248",
+    "name": "Navy Tailored shoe",
+    "category": "shoes",
+    "color": "navy",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 77.54,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0249",
+    "name": "Black Slim shoe",
+    "category": "shoes",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "fall",
+    "price": 50.22,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0250",
+    "name": "Camel Regular accessorie",
+    "category": "accessories",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 27.46,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0251",
+    "name": "Grey Relaxed shoe",
+    "category": "shoes",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 71.08,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0252",
+    "name": "Cobalt Slim dresse",
+    "category": "dresses",
+    "color": "cobalt",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "spring",
+    "price": 91.95,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0253",
+    "name": "White Tailored shoe",
+    "category": "shoes",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 115.44,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0254",
+    "name": "Blush Tailored bottom",
+    "category": "bottoms",
+    "color": "blush",
+    "pattern": "print",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 53.29,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0255",
+    "name": "Navy Oversized top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 12.01,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0256",
+    "name": "Beige Regular bottom",
+    "category": "bottoms",
+    "color": "beige",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 81.27,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0257",
+    "name": "Burgundy Tailored top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 35.88,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0258",
+    "name": "Forest Regular dresse",
+    "category": "dresses",
+    "color": "forest",
+    "pattern": "stripe",
+    "fit": "regular",
+    "season": "fall",
+    "price": 37.09,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0259",
+    "name": "Beige Tailored dresse",
+    "category": "dresses",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 64.65,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0260",
+    "name": "White Oversized top",
+    "category": "tops",
+    "color": "white",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 50.5,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0261",
+    "name": "Blush Slim top",
+    "category": "tops",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 39.62,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0262",
+    "name": "Forest Oversized top",
+    "category": "tops",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 35.77,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0263",
+    "name": "Olive Relaxed bottom",
+    "category": "bottoms",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 61.61,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0264",
+    "name": "Forest Tailored top",
+    "category": "tops",
+    "color": "forest",
+    "pattern": "print",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 31.23,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0265",
+    "name": "White Relaxed bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 75.33,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0266",
+    "name": "Navy Regular shoe",
+    "category": "shoes",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 75.05,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0267",
+    "name": "Burgundy Regular top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "print",
+    "fit": "regular",
+    "season": "spring",
+    "price": 19.21,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0268",
+    "name": "White Tailored bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 67.14,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0269",
+    "name": "Blush Slim dresse",
+    "category": "dresses",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "winter",
+    "price": 66.76,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0270",
+    "name": "Camel Tailored outerwear",
+    "category": "outerwear",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 131.28,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0271",
+    "name": "Burgundy Oversized top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 44.89,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0272",
+    "name": "Burgundy Regular top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 24.29,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0273",
+    "name": "Rust Relaxed outerwear",
+    "category": "outerwear",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 70.16,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0274",
+    "name": "Olive Oversized top",
+    "category": "tops",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 23.64,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0275",
+    "name": "Burgundy Slim accessorie",
+    "category": "accessories",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "summer",
+    "price": 60.33,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0276",
+    "name": "Black Oversized outerwear",
+    "category": "outerwear",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 88.36,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0277",
+    "name": "Blush Oversized dresse",
+    "category": "dresses",
+    "color": "blush",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 49.63,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0278",
+    "name": "Grey Regular shoe",
+    "category": "shoes",
+    "color": "grey",
+    "pattern": "print",
+    "fit": "regular",
+    "season": "fall",
+    "price": 53.7,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0279",
+    "name": "Grey Oversized dresse",
+    "category": "dresses",
+    "color": "grey",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 120.09,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0280",
+    "name": "Rust Tailored top",
+    "category": "tops",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 40.19,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0281",
+    "name": "White Relaxed dresse",
+    "category": "dresses",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 81.45,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0282",
+    "name": "Blush Relaxed shoe",
+    "category": "shoes",
+    "color": "blush",
+    "pattern": "check",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 59.79,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0283",
+    "name": "Navy Oversized bottom",
+    "category": "bottoms",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 91.49,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0284",
+    "name": "Burgundy Slim outerwear",
+    "category": "outerwear",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "winter",
+    "price": 190.23,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0285",
+    "name": "White Relaxed shoe",
+    "category": "shoes",
+    "color": "white",
+    "pattern": "print",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 68.48,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0286",
+    "name": "Beige Regular bottom",
+    "category": "bottoms",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 68.62,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0287",
+    "name": "Cobalt Oversized top",
+    "category": "tops",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 24.68,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0288",
+    "name": "Camel Relaxed top",
+    "category": "tops",
+    "color": "camel",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 34.29,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0289",
+    "name": "Burgundy Relaxed bottom",
+    "category": "bottoms",
+    "color": "burgundy",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 30.68,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0290",
+    "name": "Black Tailored top",
+    "category": "tops",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 31.93,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0291",
+    "name": "Burgundy Relaxed accessorie",
+    "category": "accessories",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 22.22,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0292",
+    "name": "Camel Relaxed dresse",
+    "category": "dresses",
+    "color": "camel",
+    "pattern": "floral",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 109.77,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0293",
+    "name": "Grey Tailored outerwear",
+    "category": "outerwear",
+    "color": "grey",
+    "pattern": "floral",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 128.69,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0294",
+    "name": "Forest Relaxed shoe",
+    "category": "shoes",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 86.68,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0295",
+    "name": "Camel Oversized shoe",
+    "category": "shoes",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 94.41,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0296",
+    "name": "Black Tailored top",
+    "category": "tops",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 20.31,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0297",
+    "name": "Forest Regular accessorie",
+    "category": "accessories",
+    "color": "forest",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "fall",
+    "price": 31.5,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0298",
+    "name": "White Relaxed top",
+    "category": "tops",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 38.62,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0299",
+    "name": "Grey Slim top",
+    "category": "tops",
+    "color": "grey",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "summer",
+    "price": 26.07,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0300",
+    "name": "Olive Oversized dresse",
+    "category": "dresses",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 107.17,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0301",
+    "name": "Cobalt Tailored top",
+    "category": "tops",
+    "color": "cobalt",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 27.01,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0302",
+    "name": "Blush Relaxed bottom",
+    "category": "bottoms",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 79.64,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0303",
+    "name": "Burgundy Slim outerwear",
+    "category": "outerwear",
+    "color": "burgundy",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "summer",
+    "price": 79.61,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0304",
+    "name": "Camel Slim outerwear",
+    "category": "outerwear",
+    "color": "camel",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "fall",
+    "price": 165.38,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0305",
+    "name": "Black Slim top",
+    "category": "tops",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "summer",
+    "price": 14.71,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0306",
+    "name": "Grey Slim top",
+    "category": "tops",
+    "color": "grey",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "summer",
+    "price": 35.88,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0307",
+    "name": "White Relaxed accessorie",
+    "category": "accessories",
+    "color": "white",
+    "pattern": "check",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 36.09,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0308",
+    "name": "Grey Oversized top",
+    "category": "tops",
+    "color": "grey",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 50.54,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0309",
+    "name": "Black Relaxed shoe",
+    "category": "shoes",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 68.19,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0310",
+    "name": "Beige Slim accessorie",
+    "category": "accessories",
+    "color": "beige",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 39.7,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0311",
+    "name": "Camel Tailored bottom",
+    "category": "bottoms",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 82.46,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0312",
+    "name": "Cobalt Regular accessorie",
+    "category": "accessories",
+    "color": "cobalt",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "summer",
+    "price": 12.0,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0313",
+    "name": "Rust Tailored top",
+    "category": "tops",
+    "color": "rust",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "winter",
+    "price": 14.05,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0314",
+    "name": "Navy Regular bottom",
+    "category": "bottoms",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 85.93,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0315",
+    "name": "Black Slim accessorie",
+    "category": "accessories",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "fall",
+    "price": 48.45,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0316",
+    "name": "Cobalt Oversized top",
+    "category": "tops",
+    "color": "cobalt",
+    "pattern": "print",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 33.29,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0317",
+    "name": "Cobalt Tailored dresse",
+    "category": "dresses",
+    "color": "cobalt",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 71.25,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0318",
+    "name": "Beige Tailored bottom",
+    "category": "bottoms",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 66.48,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0319",
+    "name": "Camel Slim outerwear",
+    "category": "outerwear",
+    "color": "camel",
+    "pattern": "floral",
+    "fit": "slim",
+    "season": "fall",
+    "price": 68.87,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0320",
+    "name": "Blush Oversized outerwear",
+    "category": "outerwear",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 133.69,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0321",
+    "name": "Black Regular dresse",
+    "category": "dresses",
+    "color": "black",
+    "pattern": "print",
+    "fit": "regular",
+    "season": "fall",
+    "price": 41.94,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0322",
+    "name": "White Oversized bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 70.21,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0323",
+    "name": "Black Tailored shoe",
+    "category": "shoes",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 139.88,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0324",
+    "name": "Olive Tailored accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 23.41,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0325",
+    "name": "Beige Relaxed shoe",
+    "category": "shoes",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 115.21,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0326",
+    "name": "Black Oversized outerwear",
+    "category": "outerwear",
+    "color": "black",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 161.78,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0327",
+    "name": "Blush Oversized accessorie",
+    "category": "accessories",
+    "color": "blush",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 29.15,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0328",
+    "name": "Cobalt Tailored shoe",
+    "category": "shoes",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 103.73,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0329",
+    "name": "Cobalt Tailored top",
+    "category": "tops",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 28.11,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0330",
+    "name": "Beige Oversized accessorie",
+    "category": "accessories",
+    "color": "beige",
+    "pattern": "print",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 16.33,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0331",
+    "name": "Rust Relaxed bottom",
+    "category": "bottoms",
+    "color": "rust",
+    "pattern": "floral",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 75.45,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0332",
+    "name": "White Relaxed dresse",
+    "category": "dresses",
+    "color": "white",
+    "pattern": "print",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 58.3,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0333",
+    "name": "Navy Oversized accessorie",
+    "category": "accessories",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 26.01,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0334",
+    "name": "Black Oversized top",
+    "category": "tops",
+    "color": "black",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 46.77,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0335",
+    "name": "Camel Slim dresse",
+    "category": "dresses",
+    "color": "camel",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "summer",
+    "price": 61.26,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0336",
+    "name": "Cobalt Slim bottom",
+    "category": "bottoms",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "winter",
+    "price": 48.5,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0337",
+    "name": "Black Tailored dresse",
+    "category": "dresses",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 84.64,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0338",
+    "name": "Olive Slim outerwear",
+    "category": "outerwear",
+    "color": "olive",
+    "pattern": "print",
+    "fit": "slim",
+    "season": "summer",
+    "price": 77.39,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0339",
+    "name": "Grey Relaxed outerwear",
+    "category": "outerwear",
+    "color": "grey",
+    "pattern": "print",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 93.2,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0340",
+    "name": "Olive Oversized shoe",
+    "category": "shoes",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 66.89,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0341",
+    "name": "Blush Oversized top",
+    "category": "tops",
+    "color": "blush",
+    "pattern": "print",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 35.06,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0342",
+    "name": "Cobalt Relaxed top",
+    "category": "tops",
+    "color": "cobalt",
+    "pattern": "check",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 21.73,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0343",
+    "name": "Grey Tailored top",
+    "category": "tops",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 27.65,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0344",
+    "name": "Olive Slim shoe",
+    "category": "shoes",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "spring",
+    "price": 131.12,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0345",
+    "name": "Black Tailored outerwear",
+    "category": "outerwear",
+    "color": "black",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 131.05,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0346",
+    "name": "Beige Relaxed dresse",
+    "category": "dresses",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 65.89,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0347",
+    "name": "Forest Regular bottom",
+    "category": "bottoms",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 90.65,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0348",
+    "name": "Forest Tailored outerwear",
+    "category": "outerwear",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 163.63,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0349",
+    "name": "Forest Regular dresse",
+    "category": "dresses",
+    "color": "forest",
+    "pattern": "print",
+    "fit": "regular",
+    "season": "winter",
+    "price": 53.6,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0350",
+    "name": "Olive Regular dresse",
+    "category": "dresses",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 54.39,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0351",
+    "name": "Camel Oversized dresse",
+    "category": "dresses",
+    "color": "camel",
+    "pattern": "floral",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 114.09,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0352",
+    "name": "Burgundy Slim outerwear",
+    "category": "outerwear",
+    "color": "burgundy",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 66.9,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0353",
+    "name": "Camel Relaxed dresse",
+    "category": "dresses",
+    "color": "camel",
+    "pattern": "check",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 58.36,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0354",
+    "name": "Blush Regular top",
+    "category": "tops",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 39.38,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0355",
+    "name": "Navy Oversized top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 19.99,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0356",
+    "name": "Blush Oversized top",
+    "category": "tops",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 32.48,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0357",
+    "name": "Olive Relaxed top",
+    "category": "tops",
+    "color": "olive",
+    "pattern": "check",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 44.58,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0358",
+    "name": "Navy Regular top",
+    "category": "tops",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 15.93,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0359",
+    "name": "Grey Relaxed accessorie",
+    "category": "accessories",
+    "color": "grey",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "summer",
+    "price": 13.78,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0360",
+    "name": "Olive Tailored accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "fall",
+    "price": 43.2,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0361",
+    "name": "Cobalt Regular dresse",
+    "category": "dresses",
+    "color": "cobalt",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 45.75,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0362",
+    "name": "Burgundy Tailored dresse",
+    "category": "dresses",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 53.47,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0363",
+    "name": "Forest Regular dresse",
+    "category": "dresses",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 64.15,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0364",
+    "name": "White Regular dresse",
+    "category": "dresses",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 110.51,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0365",
+    "name": "Forest Regular shoe",
+    "category": "shoes",
+    "color": "forest",
+    "pattern": "floral",
+    "fit": "regular",
+    "season": "fall",
+    "price": 66.64,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0366",
+    "name": "White Slim bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "spring",
+    "price": 28.42,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0367",
+    "name": "Rust Oversized dresse",
+    "category": "dresses",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 55.03,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0368",
+    "name": "White Oversized bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "spring",
+    "price": 50.85,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0369",
+    "name": "White Oversized dresse",
+    "category": "dresses",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "all-season",
+    "price": 93.72,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0370",
+    "name": "Olive Slim accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "fall",
+    "price": 28.16,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0371",
+    "name": "Burgundy Relaxed top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "fall",
+    "price": 18.81,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0372",
+    "name": "White Relaxed shoe",
+    "category": "shoes",
+    "color": "white",
+    "pattern": "stripe",
+    "fit": "relaxed",
+    "season": "spring",
+    "price": 70.68,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0373",
+    "name": "Grey Relaxed bottom",
+    "category": "bottoms",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "all-season",
+    "price": 48.74,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0374",
+    "name": "Cobalt Regular bottom",
+    "category": "bottoms",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "summer",
+    "price": 54.14,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0375",
+    "name": "Forest Tailored bottom",
+    "category": "bottoms",
+    "color": "forest",
+    "pattern": "check",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 77.79,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0376",
+    "name": "Black Oversized accessorie",
+    "category": "accessories",
+    "color": "black",
+    "pattern": "stripe",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 12.0,
+    "sizes": [
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0377",
+    "name": "Cobalt Relaxed top",
+    "category": "tops",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "relaxed",
+    "season": "winter",
+    "price": 28.84,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0378",
+    "name": "White Regular outerwear",
+    "category": "outerwear",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 73.68,
+    "sizes": [
+      "XS"
+    ]
+  },
+  {
+    "id": "TL-0379",
+    "name": "Forest Oversized shoe",
+    "category": "shoes",
+    "color": "forest",
+    "pattern": "check",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 63.09,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0380",
+    "name": "Rust Tailored top",
+    "category": "tops",
+    "color": "rust",
+    "pattern": "floral",
+    "fit": "tailored",
+    "season": "summer",
+    "price": 26.96,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0381",
+    "name": "Grey Oversized accessorie",
+    "category": "accessories",
+    "color": "grey",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 28.05,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0382",
+    "name": "Olive Regular shoe",
+    "category": "shoes",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "spring",
+    "price": 52.43,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0383",
+    "name": "Burgundy Tailored outerwear",
+    "category": "outerwear",
+    "color": "burgundy",
+    "pattern": "floral",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 63.05,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0384",
+    "name": "Beige Tailored top",
+    "category": "tops",
+    "color": "beige",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 24.38,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0385",
+    "name": "Cobalt Oversized bottom",
+    "category": "bottoms",
+    "color": "cobalt",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "winter",
+    "price": 83.1,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0386",
+    "name": "Burgundy Tailored top",
+    "category": "tops",
+    "color": "burgundy",
+    "pattern": "stripe",
+    "fit": "tailored",
+    "season": "spring",
+    "price": 33.24,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0387",
+    "name": "Grey Regular top",
+    "category": "tops",
+    "color": "grey",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "summer",
+    "price": 47.0,
+    "sizes": [
+      "XS",
+      "S"
+    ]
+  },
+  {
+    "id": "TL-0388",
+    "name": "White Slim bottom",
+    "category": "bottoms",
+    "color": "white",
+    "pattern": "stripe",
+    "fit": "slim",
+    "season": "spring",
+    "price": 49.04,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "TL-0389",
+    "name": "Navy Regular shoe",
+    "category": "shoes",
+    "color": "navy",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 100.95,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0390",
+    "name": "White Regular shoe",
+    "category": "shoes",
+    "color": "white",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 99.44,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0391",
+    "name": "Beige Oversized outerwear",
+    "category": "outerwear",
+    "color": "beige",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "summer",
+    "price": 79.08,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0392",
+    "name": "Olive Tailored accessorie",
+    "category": "accessories",
+    "color": "olive",
+    "pattern": "floral",
+    "fit": "tailored",
+    "season": "all-season",
+    "price": 45.13,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0393",
+    "name": "Forest Regular bottom",
+    "category": "bottoms",
+    "color": "forest",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "fall",
+    "price": 81.95,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0394",
+    "name": "Olive Slim shoe",
+    "category": "shoes",
+    "color": "olive",
+    "pattern": "solid",
+    "fit": "slim",
+    "season": "spring",
+    "price": 53.56,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0395",
+    "name": "Blush Regular top",
+    "category": "tops",
+    "color": "blush",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "all-season",
+    "price": 24.9,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0396",
+    "name": "Rust Regular accessorie",
+    "category": "accessories",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "regular",
+    "season": "winter",
+    "price": 30.69,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0397",
+    "name": "Black Regular outerwear",
+    "category": "outerwear",
+    "color": "black",
+    "pattern": "check",
+    "fit": "regular",
+    "season": "fall",
+    "price": 88.02,
+    "sizes": [
+      "M"
+    ]
+  },
+  {
+    "id": "TL-0398",
+    "name": "Forest Slim accessorie",
+    "category": "accessories",
+    "color": "forest",
+    "pattern": "check",
+    "fit": "slim",
+    "season": "all-season",
+    "price": 40.79,
+    "sizes": [
+      "M",
+      "L"
+    ]
+  },
+  {
+    "id": "TL-0399",
+    "name": "Rust Oversized top",
+    "category": "tops",
+    "color": "rust",
+    "pattern": "solid",
+    "fit": "oversized",
+    "season": "fall",
+    "price": 29.61,
+    "sizes": [
+      "S",
+      "M"
+    ]
+  }
+]

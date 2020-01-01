@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "SEED-000",
+    "name": "Persona SEED-000",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "light-brown",
+      "body_type": "curvy",
+      "height_cm": 177,
+      "style_archetype": "edgy",
+      "occasion": "formal-event",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-000.png"
+  },
+  {
+    "id": "SEED-001",
+    "name": "Persona SEED-001",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "dark-brown",
+      "body_type": "curvy",
+      "height_cm": 156,
+      "style_archetype": "romantic",
+      "occasion": "everyday",
+      "budget_usd": 180,
+      "size": "L"
+    },
+    "photo": "photos/SEED-001.png"
+  },
+  {
+    "id": "SEED-002",
+    "name": "Persona SEED-002",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "grey",
+      "body_type": "tall",
+      "height_cm": 186,
+      "style_archetype": "streetwear",
+      "occasion": "evening",
+      "budget_usd": 120,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-002.png"
+  },
+  {
+    "id": "SEED-003",
+    "name": "Persona SEED-003",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "red",
+      "body_type": "average",
+      "height_cm": 168,
+      "style_archetype": "sporty",
+      "occasion": "work",
+      "budget_usd": 500,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-003.png"
+  },
+  {
+    "id": "SEED-004",
+    "name": "Persona SEED-004",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "light-brown",
+      "body_type": "broad",
+      "height_cm": 180,
+      "style_archetype": "preppy",
+      "occasion": "formal-event",
+      "budget_usd": 500,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-004.png"
+  },
+  {
+    "id": "SEED-005",
+    "name": "Persona SEED-005",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "red",
+      "body_type": "average",
+      "height_cm": 182,
+      "style_archetype": "preppy",
+      "occasion": "evening",
+      "budget_usd": 250,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-005.png"
+  },
+  {
+    "id": "SEED-006",
+    "name": "Persona SEED-006",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "black",
+      "body_type": "tall",
+      "height_cm": 189,
+      "style_archetype": "bohemian",
+      "occasion": "everyday",
+      "budget_usd": 250,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-006.png"
+  },
+  {
+    "id": "SEED-007",
+    "name": "Persona SEED-007",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "black",
+      "body_type": "athletic",
+      "height_cm": 183,
+      "style_archetype": "edgy",
+      "occasion": "everyday",
+      "budget_usd": 350,
+      "size": "S"
+    },
+    "photo": "photos/SEED-007.png"
+  },
+  {
+    "id": "SEED-008",
+    "name": "Persona SEED-008",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "red",
+      "body_type": "petite",
+      "height_cm": 168,
+      "style_archetype": "edgy",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-008.png"
+  },
+  {
+    "id": "SEED-009",
+    "name": "Persona SEED-009",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "blonde",
+      "body_type": "tall",
+      "height_cm": 178,
+      "style_archetype": "minimalist",
+      "occasion": "everyday",
+      "budget_usd": 180,
+      "size": "L"
+    },
+    "photo": "photos/SEED-009.png"
+  },
+  {
+    "id": "SEED-010",
+    "name": "Persona SEED-010",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "black",
+      "body_type": "broad",
+      "height_cm": 160,
+      "style_archetype": "romantic",
+      "occasion": "weekend",
+      "budget_usd": 180,
+      "size": "L"
+    },
+    "photo": "photos/SEED-010.png"
+  },
+  {
+    "id": "SEED-011",
+    "name": "Persona SEED-011",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "red",
+      "body_type": "athletic",
+      "height_cm": 169,
+      "style_archetype": "edgy",
+      "occasion": "evening",
+      "budget_usd": 120,
+      "size": "M"
+    },
+    "photo": "photos/SEED-011.png"
+  },
+  {
+    "id": "SEED-012",
+    "name": "Persona SEED-012",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "brown",
+      "body_type": "curvy",
+      "height_cm": 176,
+      "style_archetype": "romantic",
+      "occasion": "formal-event",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-012.png"
+  },
+  {
+    "id": "SEED-013",
+    "name": "Persona SEED-013",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "dark-brown",
+      "body_type": "athletic",
+      "height_cm": 186,
+      "style_archetype": "preppy",
+      "occasion": "everyday",
+      "budget_usd": 120,
+      "size": "M"
+    },
+    "photo": "photos/SEED-013.png"
+  },
+  {
+    "id": "SEED-014",
+    "name": "Persona SEED-014",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "brown",
+      "body_type": "curvy",
+      "height_cm": 167,
+      "style_archetype": "minimalist",
+      "occasion": "work",
+      "budget_usd": 250,
+      "size": "L"
+    },
+    "photo": "photos/SEED-014.png"
+  },
+  {
+    "id": "SEED-015",
+    "name": "Persona SEED-015",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "grey",
+      "body_type": "athletic",
+      "height_cm": 171,
+      "style_archetype": "streetwear",
+      "occasion": "work",
+      "budget_usd": 500,
+      "size": "S"
+    },
+    "photo": "photos/SEED-015.png"
+  },
+  {
+    "id": "SEED-016",
+    "name": "Persona SEED-016",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "blonde",
+      "body_type": "average",
+      "height_cm": 186,
+      "style_archetype": "sporty",
+      "occasion": "weekend",
+      "budget_usd": 120,
+      "size": "L"
+    },
+    "photo": "photos/SEED-016.png"
+  },
+  {
+    "id": "SEED-017",
+    "name": "Persona SEED-017",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "dark-brown",
+      "body_type": "tall",
+      "height_cm": 189,
+      "style_archetype": "edgy",
+      "occasion": "evening",
+      "budget_usd": 350,
+      "size": "S"
+    },
+    "photo": "photos/SEED-017.png"
+  },
+  {
+    "id": "SEED-018",
+    "name": "Persona SEED-018",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "brown",
+      "body_type": "curvy",
+      "height_cm": 190,
+      "style_archetype": "bohemian",
+      "occasion": "weekend",
+      "budget_usd": 120,
+      "size": "L"
+    },
+    "photo": "photos/SEED-018.png"
+  },
+  {
+    "id": "SEED-019",
+    "name": "Persona SEED-019",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "brown",
+      "body_type": "athletic",
+      "height_cm": 168,
+      "style_archetype": "edgy",
+      "occasion": "weekend",
+      "budget_usd": 500,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-019.png"
+  },
+  {
+    "id": "SEED-020",
+    "name": "Persona SEED-020",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "dark-brown",
+      "body_type": "tall",
+      "height_cm": 186,
+      "style_archetype": "romantic",
+      "occasion": "work",
+      "budget_usd": 500,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-020.png"
+  },
+  {
+    "id": "SEED-021",
+    "name": "Persona SEED-021",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "light-brown",
+      "body_type": "tall",
+      "height_cm": 160,
+      "style_archetype": "classic",
+      "occasion": "work",
+      "budget_usd": 350,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-021.png"
+  },
+  {
+    "id": "SEED-022",
+    "name": "Persona SEED-022",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "blonde",
+      "body_type": "average",
+      "height_cm": 170,
+      "style_archetype": "minimalist",
+      "occasion": "everyday",
+      "budget_usd": 250,
+      "size": "M"
+    },
+    "photo": "photos/SEED-022.png"
+  },
+  {
+    "id": "SEED-023",
+    "name": "Persona SEED-023",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "dark-brown",
+      "body_type": "curvy",
+      "height_cm": 159,
+      "style_archetype": "romantic",
+      "occasion": "work",
+      "budget_usd": 120,
+      "size": "M"
+    },
+    "photo": "photos/SEED-023.png"
+  },
+  {
+    "id": "SEED-024",
+    "name": "Persona SEED-024",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "blonde",
+      "body_type": "broad",
+      "height_cm": 185,
+      "style_archetype": "minimalist",
+      "occasion": "everyday",
+      "budget_usd": 350,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-024.png"
+  },
+  {
+    "id": "SEED-025",
+    "name": "Persona SEED-025",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "grey",
+      "body_type": "athletic",
+      "height_cm": 177,
+      "style_archetype": "streetwear",
+      "occasion": "work",
+      "budget_usd": 120,
+      "size": "S"
+    },
+    "photo": "photos/SEED-025.png"
+  },
+  {
+    "id": "SEED-026",
+    "name": "Persona SEED-026",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "blonde",
+      "body_type": "average",
+      "height_cm": 162,
+      "style_archetype": "minimalist",
+      "occasion": "weekend",
+      "budget_usd": 120,
+      "size": "M"
+    },
+    "photo": "photos/SEED-026.png"
+  },
+  {
+    "id": "SEED-027",
+    "name": "Persona SEED-027",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "black",
+      "body_type": "average",
+      "height_cm": 155,
+      "style_archetype": "romantic",
+      "occasion": "formal-event",
+      "budget_usd": 120,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-027.png"
+  },
+  {
+    "id": "SEED-028",
+    "name": "Persona SEED-028",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "black",
+      "body_type": "broad",
+      "height_cm": 177,
+      "style_archetype": "preppy",
+      "occasion": "weekend",
+      "budget_usd": 180,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-028.png"
+  },
+  {
+    "id": "SEED-029",
+    "name": "Persona SEED-029",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "red",
+      "body_type": "tall",
+      "height_cm": 173,
+      "style_archetype": "classic",
+      "occasion": "weekend",
+      "budget_usd": 120,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-029.png"
+  },
+  {
+    "id": "SEED-030",
+    "name": "Persona SEED-030",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "light-brown",
+      "body_type": "curvy",
+      "height_cm": 189,
+      "style_archetype": "classic",
+      "occasion": "evening",
+      "budget_usd": 500,
+      "size": "L"
+    },
+    "photo": "photos/SEED-030.png"
+  },
+  {
+    "id": "SEED-031",
+    "name": "Persona SEED-031",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "black",
+      "body_type": "tall",
+      "height_cm": 185,
+      "style_archetype": "bohemian",
+      "occasion": "weekend",
+      "budget_usd": 120,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-031.png"
+  },
+  {
+    "id": "SEED-032",
+    "name": "Persona SEED-032",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "light-brown",
+      "body_type": "athletic",
+      "height_cm": 186,
+      "style_archetype": "streetwear",
+      "occasion": "work",
+      "budget_usd": 250,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-032.png"
+  },
+  {
+    "id": "SEED-033",
+    "name": "Persona SEED-033",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "red",
+      "body_type": "petite",
+      "height_cm": 160,
+      "style_archetype": "minimalist",
+      "occasion": "work",
+      "budget_usd": 120,
+      "size": "S"
+    },
+    "photo": "photos/SEED-033.png"
+  },
+  {
+    "id": "SEED-034",
+    "name": "Persona SEED-034",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "dark-brown",
+      "body_type": "athletic",
+      "height_cm": 171,
+      "style_archetype": "edgy",
+      "occasion": "weekend",
+      "budget_usd": 350,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-034.png"
+  },
+  {
+    "id": "SEED-035",
+    "name": "Persona SEED-035",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "dark-brown",
+      "body_type": "average",
+      "height_cm": 158,
+      "style_archetype": "romantic",
+      "occasion": "evening",
+      "budget_usd": 250,
+      "size": "L"
+    },
+    "photo": "photos/SEED-035.png"
+  },
+  {
+    "id": "SEED-036",
+    "name": "Persona SEED-036",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "blonde",
+      "body_type": "broad",
+      "height_cm": 188,
+      "style_archetype": "bohemian",
+      "occasion": "formal-event",
+      "budget_usd": 250,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-036.png"
+  },
+  {
+    "id": "SEED-037",
+    "name": "Persona SEED-037",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "grey",
+      "body_type": "average",
+      "height_cm": 181,
+      "style_archetype": "minimalist",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-037.png"
+  },
+  {
+    "id": "SEED-038",
+    "name": "Persona SEED-038",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "dark-brown",
+      "body_type": "athletic",
+      "height_cm": 160,
+      "style_archetype": "romantic",
+      "occasion": "evening",
+      "budget_usd": 250,
+      "size": "L"
+    },
+    "photo": "photos/SEED-038.png"
+  },
+  {
+    "id": "SEED-039",
+    "name": "Persona SEED-039",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "light-brown",
+      "body_type": "average",
+      "height_cm": 170,
+      "style_archetype": "romantic",
+      "occasion": "weekend",
+      "budget_usd": 180,
+      "size": "S"
+    },
+    "photo": "photos/SEED-039.png"
+  },
+  {
+    "id": "SEED-040",
+    "name": "Persona SEED-040",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "black",
+      "body_type": "petite",
+      "height_cm": 185,
+      "style_archetype": "classic",
+      "occasion": "work",
+      "budget_usd": 250,
+      "size": "L"
+    },
+    "photo": "photos/SEED-040.png"
+  },
+  {
+    "id": "SEED-041",
+    "name": "Persona SEED-041",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "blonde",
+      "body_type": "curvy",
+      "height_cm": 182,
+      "style_archetype": "sporty",
+      "occasion": "weekend",
+      "budget_usd": 350,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-041.png"
+  },
+  {
+    "id": "SEED-042",
+    "name": "Persona SEED-042",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "blonde",
+      "body_type": "petite",
+      "height_cm": 171,
+      "style_archetype": "edgy",
+      "occasion": "formal-event",
+      "budget_usd": 250,
+      "size": "S"
+    },
+    "photo": "photos/SEED-042.png"
+  },
+  {
+    "id": "SEED-043",
+    "name": "Persona SEED-043",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "brown",
+      "body_type": "petite",
+      "height_cm": 164,
+      "style_archetype": "bohemian",
+      "occasion": "formal-event",
+      "budget_usd": 250,
+      "size": "M"
+    },
+    "photo": "photos/SEED-043.png"
+  },
+  {
+    "id": "SEED-044",
+    "name": "Persona SEED-044",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "red",
+      "body_type": "average",
+      "height_cm": 173,
+      "style_archetype": "edgy",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-044.png"
+  },
+  {
+    "id": "SEED-045",
+    "name": "Persona SEED-045",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "dark-brown",
+      "body_type": "petite",
+      "height_cm": 182,
+      "style_archetype": "edgy",
+      "occasion": "work",
+      "budget_usd": 120,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-045.png"
+  },
+  {
+    "id": "SEED-046",
+    "name": "Persona SEED-046",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "red",
+      "body_type": "broad",
+      "height_cm": 179,
+      "style_archetype": "edgy",
+      "occasion": "everyday",
+      "budget_usd": 500,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-046.png"
+  },
+  {
+    "id": "SEED-047",
+    "name": "Persona SEED-047",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "blonde",
+      "body_type": "average",
+      "height_cm": 160,
+      "style_archetype": "romantic",
+      "occasion": "weekend",
+      "budget_usd": 250,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-047.png"
+  },
+  {
+    "id": "SEED-048",
+    "name": "Persona SEED-048",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "black",
+      "body_type": "broad",
+      "height_cm": 187,
+      "style_archetype": "bohemian",
+      "occasion": "everyday",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-048.png"
+  },
+  {
+    "id": "SEED-049",
+    "name": "Persona SEED-049",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "light-brown",
+      "body_type": "average",
+      "height_cm": 162,
+      "style_archetype": "bohemian",
+      "occasion": "everyday",
+      "budget_usd": 350,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-049.png"
+  },
+  {
+    "id": "SEED-050",
+    "name": "Persona SEED-050",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "dark-brown",
+      "body_type": "petite",
+      "height_cm": 188,
+      "style_archetype": "sporty",
+      "occasion": "weekend",
+      "budget_usd": 350,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-050.png"
+  },
+  {
+    "id": "SEED-051",
+    "name": "Persona SEED-051",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "red",
+      "body_type": "petite",
+      "height_cm": 169,
+      "style_archetype": "classic",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-051.png"
+  },
+  {
+    "id": "SEED-052",
+    "name": "Persona SEED-052",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "black",
+      "body_type": "athletic",
+      "height_cm": 186,
+      "style_archetype": "classic",
+      "occasion": "work",
+      "budget_usd": 500,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-052.png"
+  },
+  {
+    "id": "SEED-053",
+    "name": "Persona SEED-053",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "grey",
+      "body_type": "athletic",
+      "height_cm": 163,
+      "style_archetype": "preppy",
+      "occasion": "everyday",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-053.png"
+  },
+  {
+    "id": "SEED-054",
+    "name": "Persona SEED-054",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "brown",
+      "body_type": "tall",
+      "height_cm": 184,
+      "style_archetype": "classic",
+      "occasion": "evening",
+      "budget_usd": 250,
+      "size": "M"
+    },
+    "photo": "photos/SEED-054.png"
+  },
+  {
+    "id": "SEED-055",
+    "name": "Persona SEED-055",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "grey",
+      "body_type": "broad",
+      "height_cm": 174,
+      "style_archetype": "minimalist",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "S"
+    },
+    "photo": "photos/SEED-055.png"
+  },
+  {
+    "id": "SEED-056",
+    "name": "Persona SEED-056",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "dark-brown",
+      "body_type": "tall",
+      "height_cm": 190,
+      "style_archetype": "sporty",
+      "occasion": "everyday",
+      "budget_usd": 350,
+      "size": "L"
+    },
+    "photo": "photos/SEED-056.png"
+  },
+  {
+    "id": "SEED-057",
+    "name": "Persona SEED-057",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "red",
+      "body_type": "average",
+      "height_cm": 183,
+      "style_archetype": "classic",
+      "occasion": "everyday",
+      "budget_usd": 500,
+      "size": "L"
+    },
+    "photo": "photos/SEED-057.png"
+  },
+  {
+    "id": "SEED-058",
+    "name": "Persona SEED-058",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "light-brown",
+      "body_type": "curvy",
+      "height_cm": 170,
+      "style_archetype": "preppy",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-058.png"
+  },
+  {
+    "id": "SEED-059",
+    "name": "Persona SEED-059",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "blonde",
+      "body_type": "broad",
+      "height_cm": 186,
+      "style_archetype": "bohemian",
+      "occasion": "evening",
+      "budget_usd": 250,
+      "size": "S"
+    },
+    "photo": "photos/SEED-059.png"
+  },
+  {
+    "id": "SEED-060",
+    "name": "Persona SEED-060",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "brown",
+      "body_type": "petite",
+      "height_cm": 170,
+      "style_archetype": "sporty",
+      "occasion": "weekend",
+      "budget_usd": 250,
+      "size": "L"
+    },
+    "photo": "photos/SEED-060.png"
+  },
+  {
+    "id": "SEED-061",
+    "name": "Persona SEED-061",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "brown",
+      "body_type": "broad",
+      "height_cm": 191,
+      "style_archetype": "edgy",
+      "occasion": "everyday",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-061.png"
+  },
+  {
+    "id": "SEED-062",
+    "name": "Persona SEED-062",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "red",
+      "body_type": "tall",
+      "height_cm": 181,
+      "style_archetype": "classic",
+      "occasion": "everyday",
+      "budget_usd": 250,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-062.png"
+  },
+  {
+    "id": "SEED-063",
+    "name": "Persona SEED-063",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "dark-brown",
+      "body_type": "average",
+      "height_cm": 188,
+      "style_archetype": "edgy",
+      "occasion": "evening",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-063.png"
+  },
+  {
+    "id": "SEED-064",
+    "name": "Persona SEED-064",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "brown",
+      "body_type": "average",
+      "height_cm": 170,
+      "style_archetype": "romantic",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-064.png"
+  },
+  {
+    "id": "SEED-065",
+    "name": "Persona SEED-065",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "brown",
+      "body_type": "curvy",
+      "height_cm": 164,
+      "style_archetype": "romantic",
+      "occasion": "weekend",
+      "budget_usd": 180,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-065.png"
+  },
+  {
+    "id": "SEED-066",
+    "name": "Persona SEED-066",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "grey",
+      "body_type": "tall",
+      "height_cm": 188,
+      "style_archetype": "bohemian",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "S"
+    },
+    "photo": "photos/SEED-066.png"
+  },
+  {
+    "id": "SEED-067",
+    "name": "Persona SEED-067",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "red",
+      "body_type": "broad",
+      "height_cm": 173,
+      "style_archetype": "classic",
+      "occasion": "work",
+      "budget_usd": 350,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-067.png"
+  },
+  {
+    "id": "SEED-068",
+    "name": "Persona SEED-068",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "blonde",
+      "body_type": "broad",
+      "height_cm": 165,
+      "style_archetype": "edgy",
+      "occasion": "evening",
+      "budget_usd": 120,
+      "size": "M"
+    },
+    "photo": "photos/SEED-068.png"
+  },
+  {
+    "id": "SEED-069",
+    "name": "Persona SEED-069",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "black",
+      "body_type": "athletic",
+      "height_cm": 156,
+      "style_archetype": "preppy",
+      "occasion": "weekend",
+      "budget_usd": 180,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-069.png"
+  },
+  {
+    "id": "SEED-070",
+    "name": "Persona SEED-070",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "dark-brown",
+      "body_type": "tall",
+      "height_cm": 179,
+      "style_archetype": "romantic",
+      "occasion": "weekend",
+      "budget_usd": 250,
+      "size": "M"
+    },
+    "photo": "photos/SEED-070.png"
+  },
+  {
+    "id": "SEED-071",
+    "name": "Persona SEED-071",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "red",
+      "body_type": "petite",
+      "height_cm": 176,
+      "style_archetype": "bohemian",
+      "occasion": "evening",
+      "budget_usd": 250,
+      "size": "S"
+    },
+    "photo": "photos/SEED-071.png"
+  },
+  {
+    "id": "SEED-072",
+    "name": "Persona SEED-072",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "light-brown",
+      "body_type": "average",
+      "height_cm": 187,
+      "style_archetype": "streetwear",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-072.png"
+  },
+  {
+    "id": "SEED-073",
+    "name": "Persona SEED-073",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "black",
+      "body_type": "athletic",
+      "height_cm": 188,
+      "style_archetype": "sporty",
+      "occasion": "evening",
+      "budget_usd": 500,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-073.png"
+  },
+  {
+    "id": "SEED-074",
+    "name": "Persona SEED-074",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "brown",
+      "body_type": "tall",
+      "height_cm": 179,
+      "style_archetype": "preppy",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "L"
+    },
+    "photo": "photos/SEED-074.png"
+  },
+  {
+    "id": "SEED-075",
+    "name": "Persona SEED-075",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "black",
+      "body_type": "tall",
+      "height_cm": 162,
+      "style_archetype": "preppy",
+      "occasion": "formal-event",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-075.png"
+  },
+  {
+    "id": "SEED-076",
+    "name": "Persona SEED-076",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "black",
+      "body_type": "average",
+      "height_cm": 183,
+      "style_archetype": "minimalist",
+      "occasion": "work",
+      "budget_usd": 500,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-076.png"
+  },
+  {
+    "id": "SEED-077",
+    "name": "Persona SEED-077",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "brown",
+      "body_type": "athletic",
+      "height_cm": 176,
+      "style_archetype": "edgy",
+      "occasion": "everyday",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-077.png"
+  },
+  {
+    "id": "SEED-078",
+    "name": "Persona SEED-078",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "black",
+      "body_type": "petite",
+      "height_cm": 179,
+      "style_archetype": "classic",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "S"
+    },
+    "photo": "photos/SEED-078.png"
+  },
+  {
+    "id": "SEED-079",
+    "name": "Persona SEED-079",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "grey",
+      "body_type": "average",
+      "height_cm": 163,
+      "style_archetype": "minimalist",
+      "occasion": "weekend",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-079.png"
+  },
+  {
+    "id": "SEED-080",
+    "name": "Persona SEED-080",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "grey",
+      "body_type": "broad",
+      "height_cm": 158,
+      "style_archetype": "minimalist",
+      "occasion": "formal-event",
+      "budget_usd": 120,
+      "size": "L"
+    },
+    "photo": "photos/SEED-080.png"
+  },
+  {
+    "id": "SEED-081",
+    "name": "Persona SEED-081",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "brown",
+      "body_type": "tall",
+      "height_cm": 176,
+      "style_archetype": "edgy",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "L"
+    },
+    "photo": "photos/SEED-081.png"
+  },
+  {
+    "id": "SEED-082",
+    "name": "Persona SEED-082",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "black",
+      "body_type": "tall",
+      "height_cm": 179,
+      "style_archetype": "sporty",
+      "occasion": "formal-event",
+      "budget_usd": 180,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-082.png"
+  },
+  {
+    "id": "SEED-083",
+    "name": "Persona SEED-083",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "blonde",
+      "body_type": "average",
+      "height_cm": 162,
+      "style_archetype": "classic",
+      "occasion": "evening",
+      "budget_usd": 350,
+      "size": "S"
+    },
+    "photo": "photos/SEED-083.png"
+  },
+  {
+    "id": "SEED-084",
+    "name": "Persona SEED-084",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "blonde",
+      "body_type": "average",
+      "height_cm": 167,
+      "style_archetype": "minimalist",
+      "occasion": "work",
+      "budget_usd": 250,
+      "size": "L"
+    },
+    "photo": "photos/SEED-084.png"
+  },
+  {
+    "id": "SEED-085",
+    "name": "Persona SEED-085",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "light-brown",
+      "body_type": "average",
+      "height_cm": 162,
+      "style_archetype": "edgy",
+      "occasion": "formal-event",
+      "budget_usd": 250,
+      "size": "L"
+    },
+    "photo": "photos/SEED-085.png"
+  },
+  {
+    "id": "SEED-086",
+    "name": "Persona SEED-086",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "red",
+      "body_type": "broad",
+      "height_cm": 176,
+      "style_archetype": "classic",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-086.png"
+  },
+  {
+    "id": "SEED-087",
+    "name": "Persona SEED-087",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "blonde",
+      "body_type": "athletic",
+      "height_cm": 190,
+      "style_archetype": "streetwear",
+      "occasion": "weekend",
+      "budget_usd": 120,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-087.png"
+  },
+  {
+    "id": "SEED-088",
+    "name": "Persona SEED-088",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "red",
+      "body_type": "tall",
+      "height_cm": 170,
+      "style_archetype": "romantic",
+      "occasion": "work",
+      "budget_usd": 120,
+      "size": "M"
+    },
+    "photo": "photos/SEED-088.png"
+  },
+  {
+    "id": "SEED-089",
+    "name": "Persona SEED-089",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "blonde",
+      "body_type": "athletic",
+      "height_cm": 184,
+      "style_archetype": "romantic",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "S"
+    },
+    "photo": "photos/SEED-089.png"
+  },
+  {
+    "id": "SEED-090",
+    "name": "Persona SEED-090",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "grey",
+      "body_type": "petite",
+      "height_cm": 169,
+      "style_archetype": "romantic",
+      "occasion": "work",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-090.png"
+  },
+  {
+    "id": "SEED-091",
+    "name": "Persona SEED-091",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "red",
+      "body_type": "petite",
+      "height_cm": 180,
+      "style_archetype": "streetwear",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "S"
+    },
+    "photo": "photos/SEED-091.png"
+  },
+  {
+    "id": "SEED-092",
+    "name": "Persona SEED-092",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "light-brown",
+      "body_type": "tall",
+      "height_cm": 183,
+      "style_archetype": "edgy",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-092.png"
+  },
+  {
+    "id": "SEED-093",
+    "name": "Persona SEED-093",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "brown",
+      "body_type": "tall",
+      "height_cm": 190,
+      "style_archetype": "romantic",
+      "occasion": "work",
+      "budget_usd": 500,
+      "size": "L"
+    },
+    "photo": "photos/SEED-093.png"
+  },
+  {
+    "id": "SEED-094",
+    "name": "Persona SEED-094",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "black",
+      "body_type": "tall",
+      "height_cm": 161,
+      "style_archetype": "minimalist",
+      "occasion": "everyday",
+      "budget_usd": 180,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-094.png"
+  },
+  {
+    "id": "SEED-095",
+    "name": "Persona SEED-095",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "red",
+      "body_type": "curvy",
+      "height_cm": 189,
+      "style_archetype": "preppy",
+      "occasion": "evening",
+      "budget_usd": 120,
+      "size": "S"
+    },
+    "photo": "photos/SEED-095.png"
+  },
+  {
+    "id": "SEED-096",
+    "name": "Persona SEED-096",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "brown",
+      "body_type": "athletic",
+      "height_cm": 161,
+      "style_archetype": "streetwear",
+      "occasion": "evening",
+      "budget_usd": 250,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-096.png"
+  },
+  {
+    "id": "SEED-097",
+    "name": "Persona SEED-097",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "grey",
+      "body_type": "athletic",
+      "height_cm": 178,
+      "style_archetype": "bohemian",
+      "occasion": "formal-event",
+      "budget_usd": 180,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-097.png"
+  },
+  {
+    "id": "SEED-098",
+    "name": "Persona SEED-098",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "black",
+      "body_type": "average",
+      "height_cm": 164,
+      "style_archetype": "minimalist",
+      "occasion": "everyday",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-098.png"
+  },
+  {
+    "id": "SEED-099",
+    "name": "Persona SEED-099",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "red",
+      "body_type": "athletic",
+      "height_cm": 155,
+      "style_archetype": "preppy",
+      "occasion": "work",
+      "budget_usd": 250,
+      "size": "M"
+    },
+    "photo": "photos/SEED-099.png"
+  },
+  {
+    "id": "SEED-100",
+    "name": "Persona SEED-100",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "dark-brown",
+      "body_type": "average",
+      "height_cm": 175,
+      "style_archetype": "preppy",
+      "occasion": "everyday",
+      "budget_usd": 350,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-100.png"
+  },
+  {
+    "id": "SEED-101",
+    "name": "Persona SEED-101",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "black",
+      "body_type": "tall",
+      "height_cm": 172,
+      "style_archetype": "minimalist",
+      "occasion": "work",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-101.png"
+  },
+  {
+    "id": "SEED-102",
+    "name": "Persona SEED-102",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "brown",
+      "body_type": "broad",
+      "height_cm": 169,
+      "style_archetype": "edgy",
+      "occasion": "evening",
+      "budget_usd": 250,
+      "size": "M"
+    },
+    "photo": "photos/SEED-102.png"
+  },
+  {
+    "id": "SEED-103",
+    "name": "Persona SEED-103",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "black",
+      "body_type": "athletic",
+      "height_cm": 156,
+      "style_archetype": "classic",
+      "occasion": "work",
+      "budget_usd": 500,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-103.png"
+  },
+  {
+    "id": "SEED-104",
+    "name": "Persona SEED-104",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "red",
+      "body_type": "petite",
+      "height_cm": 188,
+      "style_archetype": "classic",
+      "occasion": "evening",
+      "budget_usd": 350,
+      "size": "L"
+    },
+    "photo": "photos/SEED-104.png"
+  },
+  {
+    "id": "SEED-105",
+    "name": "Persona SEED-105",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "brown",
+      "body_type": "average",
+      "height_cm": 165,
+      "style_archetype": "edgy",
+      "occasion": "weekend",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-105.png"
+  },
+  {
+    "id": "SEED-106",
+    "name": "Persona SEED-106",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "red",
+      "body_type": "petite",
+      "height_cm": 169,
+      "style_archetype": "sporty",
+      "occasion": "work",
+      "budget_usd": 350,
+      "size": "L"
+    },
+    "photo": "photos/SEED-106.png"
+  },
+  {
+    "id": "SEED-107",
+    "name": "Persona SEED-107",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "blonde",
+      "body_type": "broad",
+      "height_cm": 161,
+      "style_archetype": "edgy",
+      "occasion": "weekend",
+      "budget_usd": 120,
+      "size": "M"
+    },
+    "photo": "photos/SEED-107.png"
+  },
+  {
+    "id": "SEED-108",
+    "name": "Persona SEED-108",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "light-brown",
+      "body_type": "tall",
+      "height_cm": 161,
+      "style_archetype": "preppy",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-108.png"
+  },
+  {
+    "id": "SEED-109",
+    "name": "Persona SEED-109",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "red",
+      "body_type": "tall",
+      "height_cm": 183,
+      "style_archetype": "preppy",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-109.png"
+  },
+  {
+    "id": "SEED-110",
+    "name": "Persona SEED-110",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "grey",
+      "body_type": "tall",
+      "height_cm": 164,
+      "style_archetype": "preppy",
+      "occasion": "evening",
+      "budget_usd": 350,
+      "size": "L"
+    },
+    "photo": "photos/SEED-110.png"
+  },
+  {
+    "id": "SEED-111",
+    "name": "Persona SEED-111",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "dark-brown",
+      "body_type": "curvy",
+      "height_cm": 157,
+      "style_archetype": "streetwear",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "L"
+    },
+    "photo": "photos/SEED-111.png"
+  },
+  {
+    "id": "SEED-112",
+    "name": "Persona SEED-112",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "black",
+      "body_type": "average",
+      "height_cm": 181,
+      "style_archetype": "romantic",
+      "occasion": "evening",
+      "budget_usd": 120,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-112.png"
+  },
+  {
+    "id": "SEED-113",
+    "name": "Persona SEED-113",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "grey",
+      "body_type": "tall",
+      "height_cm": 191,
+      "style_archetype": "minimalist",
+      "occasion": "weekend",
+      "budget_usd": 350,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-113.png"
+  },
+  {
+    "id": "SEED-114",
+    "name": "Persona SEED-114",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "light-brown",
+      "body_type": "petite",
+      "height_cm": 184,
+      "style_archetype": "edgy",
+      "occasion": "evening",
+      "budget_usd": 250,
+      "size": "S"
+    },
+    "photo": "photos/SEED-114.png"
+  },
+  {
+    "id": "SEED-115",
+    "name": "Persona SEED-115",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "black",
+      "body_type": "curvy",
+      "height_cm": 186,
+      "style_archetype": "edgy",
+      "occasion": "everyday",
+      "budget_usd": 350,
+      "size": "M"
+    },
+    "photo": "photos/SEED-115.png"
+  },
+  {
+    "id": "SEED-116",
+    "name": "Persona SEED-116",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "red",
+      "body_type": "curvy",
+      "height_cm": 179,
+      "style_archetype": "minimalist",
+      "occasion": "formal-event",
+      "budget_usd": 500,
+      "size": "M"
+    },
+    "photo": "photos/SEED-116.png"
+  },
+  {
+    "id": "SEED-117",
+    "name": "Persona SEED-117",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "brown",
+      "body_type": "tall",
+      "height_cm": 158,
+      "style_archetype": "streetwear",
+      "occasion": "weekend",
+      "budget_usd": 350,
+      "size": "M"
+    },
+    "photo": "photos/SEED-117.png"
+  },
+  {
+    "id": "SEED-118",
+    "name": "Persona SEED-118",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "light-brown",
+      "body_type": "athletic",
+      "height_cm": 174,
+      "style_archetype": "preppy",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "S"
+    },
+    "photo": "photos/SEED-118.png"
+  },
+  {
+    "id": "SEED-119",
+    "name": "Persona SEED-119",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "brown",
+      "body_type": "petite",
+      "height_cm": 177,
+      "style_archetype": "preppy",
+      "occasion": "weekend",
+      "budget_usd": 350,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-119.png"
+  },
+  {
+    "id": "SEED-120",
+    "name": "Persona SEED-120",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "light-brown",
+      "body_type": "tall",
+      "height_cm": 187,
+      "style_archetype": "classic",
+      "occasion": "evening",
+      "budget_usd": 350,
+      "size": "M"
+    },
+    "photo": "photos/SEED-120.png"
+  },
+  {
+    "id": "SEED-121",
+    "name": "Persona SEED-121",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "dark-brown",
+      "body_type": "petite",
+      "height_cm": 161,
+      "style_archetype": "classic",
+      "occasion": "weekend",
+      "budget_usd": 120,
+      "size": "L"
+    },
+    "photo": "photos/SEED-121.png"
+  },
+  {
+    "id": "SEED-122",
+    "name": "Persona SEED-122",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "red",
+      "body_type": "broad",
+      "height_cm": 191,
+      "style_archetype": "preppy",
+      "occasion": "weekend",
+      "budget_usd": 180,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-122.png"
+  },
+  {
+    "id": "SEED-123",
+    "name": "Persona SEED-123",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "black",
+      "body_type": "average",
+      "height_cm": 170,
+      "style_archetype": "sporty",
+      "occasion": "evening",
+      "budget_usd": 120,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-123.png"
+  },
+  {
+    "id": "SEED-124",
+    "name": "Persona SEED-124",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "black",
+      "body_type": "broad",
+      "height_cm": 180,
+      "style_archetype": "edgy",
+      "occasion": "weekend",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-124.png"
+  },
+  {
+    "id": "SEED-125",
+    "name": "Persona SEED-125",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "black",
+      "body_type": "average",
+      "height_cm": 170,
+      "style_archetype": "sporty",
+      "occasion": "work",
+      "budget_usd": 250,
+      "size": "S"
+    },
+    "photo": "photos/SEED-125.png"
+  },
+  {
+    "id": "SEED-126",
+    "name": "Persona SEED-126",
+    "attrs": {
+      "skin_tone": "light",
+      "hair": "black",
+      "body_type": "curvy",
+      "height_cm": 157,
+      "style_archetype": "bohemian",
+      "occasion": "formal-event",
+      "budget_usd": 120,
+      "size": "L"
+    },
+    "photo": "photos/SEED-126.png"
+  },
+  {
+    "id": "SEED-127",
+    "name": "Persona SEED-127",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "dark-brown",
+      "body_type": "broad",
+      "height_cm": 191,
+      "style_archetype": "sporty",
+      "occasion": "formal-event",
+      "budget_usd": 120,
+      "size": "L"
+    },
+    "photo": "photos/SEED-127.png"
+  },
+  {
+    "id": "SEED-128",
+    "name": "Persona SEED-128",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "dark-brown",
+      "body_type": "curvy",
+      "height_cm": 167,
+      "style_archetype": "edgy",
+      "occasion": "weekend",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-128.png"
+  },
+  {
+    "id": "SEED-129",
+    "name": "Persona SEED-129",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "dark-brown",
+      "body_type": "petite",
+      "height_cm": 179,
+      "style_archetype": "romantic",
+      "occasion": "everyday",
+      "budget_usd": 350,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-129.png"
+  },
+  {
+    "id": "SEED-130",
+    "name": "Persona SEED-130",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "brown",
+      "body_type": "athletic",
+      "height_cm": 184,
+      "style_archetype": "preppy",
+      "occasion": "weekend",
+      "budget_usd": 120,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-130.png"
+  },
+  {
+    "id": "SEED-131",
+    "name": "Persona SEED-131",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "dark-brown",
+      "body_type": "average",
+      "height_cm": 164,
+      "style_archetype": "edgy",
+      "occasion": "work",
+      "budget_usd": 350,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-131.png"
+  },
+  {
+    "id": "SEED-132",
+    "name": "Persona SEED-132",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "light-brown",
+      "body_type": "athletic",
+      "height_cm": 191,
+      "style_archetype": "sporty",
+      "occasion": "work",
+      "budget_usd": 350,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-132.png"
+  },
+  {
+    "id": "SEED-133",
+    "name": "Persona SEED-133",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "brown",
+      "body_type": "athletic",
+      "height_cm": 166,
+      "style_archetype": "classic",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "L"
+    },
+    "photo": "photos/SEED-133.png"
+  },
+  {
+    "id": "SEED-134",
+    "name": "Persona SEED-134",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "dark-brown",
+      "body_type": "tall",
+      "height_cm": 164,
+      "style_archetype": "streetwear",
+      "occasion": "evening",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-134.png"
+  },
+  {
+    "id": "SEED-135",
+    "name": "Persona SEED-135",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "dark-brown",
+      "body_type": "broad",
+      "height_cm": 187,
+      "style_archetype": "minimalist",
+      "occasion": "evening",
+      "budget_usd": 120,
+      "size": "S"
+    },
+    "photo": "photos/SEED-135.png"
+  },
+  {
+    "id": "SEED-136",
+    "name": "Persona SEED-136",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "blonde",
+      "body_type": "tall",
+      "height_cm": 181,
+      "style_archetype": "streetwear",
+      "occasion": "formal-event",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-136.png"
+  },
+  {
+    "id": "SEED-137",
+    "name": "Persona SEED-137",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "grey",
+      "body_type": "athletic",
+      "height_cm": 181,
+      "style_archetype": "bohemian",
+      "occasion": "weekend",
+      "budget_usd": 180,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-137.png"
+  },
+  {
+    "id": "SEED-138",
+    "name": "Persona SEED-138",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "grey",
+      "body_type": "curvy",
+      "height_cm": 163,
+      "style_archetype": "streetwear",
+      "occasion": "everyday",
+      "budget_usd": 120,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-138.png"
+  },
+  {
+    "id": "SEED-139",
+    "name": "Persona SEED-139",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "brown",
+      "body_type": "average",
+      "height_cm": 180,
+      "style_archetype": "classic",
+      "occasion": "weekend",
+      "budget_usd": 250,
+      "size": "S"
+    },
+    "photo": "photos/SEED-139.png"
+  },
+  {
+    "id": "SEED-140",
+    "name": "Persona SEED-140",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "grey",
+      "body_type": "curvy",
+      "height_cm": 174,
+      "style_archetype": "edgy",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-140.png"
+  },
+  {
+    "id": "SEED-141",
+    "name": "Persona SEED-141",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "brown",
+      "body_type": "average",
+      "height_cm": 175,
+      "style_archetype": "sporty",
+      "occasion": "formal-event",
+      "budget_usd": 500,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-141.png"
+  },
+  {
+    "id": "SEED-142",
+    "name": "Persona SEED-142",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "black",
+      "body_type": "tall",
+      "height_cm": 185,
+      "style_archetype": "minimalist",
+      "occasion": "work",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-142.png"
+  },
+  {
+    "id": "SEED-143",
+    "name": "Persona SEED-143",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "blonde",
+      "body_type": "petite",
+      "height_cm": 169,
+      "style_archetype": "preppy",
+      "occasion": "everyday",
+      "budget_usd": 250,
+      "size": "S"
+    },
+    "photo": "photos/SEED-143.png"
+  },
+  {
+    "id": "SEED-144",
+    "name": "Persona SEED-144",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "grey",
+      "body_type": "petite",
+      "height_cm": 174,
+      "style_archetype": "bohemian",
+      "occasion": "weekend",
+      "budget_usd": 250,
+      "size": "L"
+    },
+    "photo": "photos/SEED-144.png"
+  },
+  {
+    "id": "SEED-145",
+    "name": "Persona SEED-145",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "red",
+      "body_type": "broad",
+      "height_cm": 159,
+      "style_archetype": "sporty",
+      "occasion": "formal-event",
+      "budget_usd": 120,
+      "size": "S"
+    },
+    "photo": "photos/SEED-145.png"
+  },
+  {
+    "id": "SEED-146",
+    "name": "Persona SEED-146",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "light-brown",
+      "body_type": "athletic",
+      "height_cm": 178,
+      "style_archetype": "bohemian",
+      "occasion": "weekend",
+      "budget_usd": 500,
+      "size": "L"
+    },
+    "photo": "photos/SEED-146.png"
+  },
+  {
+    "id": "SEED-147",
+    "name": "Persona SEED-147",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "blonde",
+      "body_type": "petite",
+      "height_cm": 182,
+      "style_archetype": "sporty",
+      "occasion": "evening",
+      "budget_usd": 500,
+      "size": "S"
+    },
+    "photo": "photos/SEED-147.png"
+  },
+  {
+    "id": "SEED-148",
+    "name": "Persona SEED-148",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "blonde",
+      "body_type": "broad",
+      "height_cm": 191,
+      "style_archetype": "sporty",
+      "occasion": "weekend",
+      "budget_usd": 250,
+      "size": "XS"
+    },
+    "photo": "photos/SEED-148.png"
+  },
+  {
+    "id": "SEED-149",
+    "name": "Persona SEED-149",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "brown",
+      "body_type": "broad",
+      "height_cm": 187,
+      "style_archetype": "preppy",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "L"
+    },
+    "photo": "photos/SEED-149.png"
+  },
+  {
+    "id": "SEED-150",
+    "name": "Persona SEED-150",
+    "attrs": {
+      "skin_tone": "olive",
+      "hair": "black",
+      "body_type": "petite",
+      "height_cm": 190,
+      "style_archetype": "classic",
+      "occasion": "weekend",
+      "budget_usd": 500,
+      "size": "L"
+    },
+    "photo": "photos/SEED-150.png"
+  },
+  {
+    "id": "SEED-151",
+    "name": "Persona SEED-151",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "brown",
+      "body_type": "curvy",
+      "height_cm": 190,
+      "style_archetype": "streetwear",
+      "occasion": "everyday",
+      "budget_usd": 180,
+      "size": "S"
+    },
+    "photo": "photos/SEED-151.png"
+  },
+  {
+    "id": "SEED-152",
+    "name": "Persona SEED-152",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "red",
+      "body_type": "broad",
+      "height_cm": 173,
+      "style_archetype": "romantic",
+      "occasion": "weekend",
+      "budget_usd": 250,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-152.png"
+  },
+  {
+    "id": "SEED-153",
+    "name": "Persona SEED-153",
+    "attrs": {
+      "skin_tone": "fair",
+      "hair": "blonde",
+      "body_type": "athletic",
+      "height_cm": 182,
+      "style_archetype": "minimalist",
+      "occasion": "formal-event",
+      "budget_usd": 250,
+      "size": "M"
+    },
+    "photo": "photos/SEED-153.png"
+  },
+  {
+    "id": "SEED-154",
+    "name": "Persona SEED-154",
+    "attrs": {
+      "skin_tone": "medium",
+      "hair": "black",
+      "body_type": "broad",
+      "height_cm": 190,
+      "style_archetype": "edgy",
+      "occasion": "formal-event",
+      "budget_usd": 350,
+      "size": "M"
+    },
+    "photo": "photos/SEED-154.png"
+  },
+  {
+    "id": "SEED-155",
+    "name": "Persona SEED-155",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "dark-brown",
+      "body_type": "broad",
+      "height_cm": 176,
+      "style_archetype": "streetwear",
+      "occasion": "work",
+      "budget_usd": 180,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-155.png"
+  },
+  {
+    "id": "SEED-156",
+    "name": "Persona SEED-156",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "light-brown",
+      "body_type": "average",
+      "height_cm": 173,
+      "style_archetype": "preppy",
+      "occasion": "weekend",
+      "budget_usd": 500,
+      "size": "XL"
+    },
+    "photo": "photos/SEED-156.png"
+  },
+  {
+    "id": "SEED-157",
+    "name": "Persona SEED-157",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "brown",
+      "body_type": "curvy",
+      "height_cm": 191,
+      "style_archetype": "romantic",
+      "occasion": "formal-event",
+      "budget_usd": 180,
+      "size": "M"
+    },
+    "photo": "photos/SEED-157.png"
+  },
+  {
+    "id": "SEED-158",
+    "name": "Persona SEED-158",
+    "attrs": {
+      "skin_tone": "tan",
+      "hair": "black",
+      "body_type": "average",
+      "height_cm": 177,
+      "style_archetype": "sporty",
+      "occasion": "evening",
+      "budget_usd": 500,
+      "size": "M"
+    },
+    "photo": "photos/SEED-158.png"
+  },
+  {
+    "id": "SEED-159",
+    "name": "Persona SEED-159",
+    "attrs": {
+      "skin_tone": "deep",
+      "hair": "brown",
+      "body_type": "average",
+      "height_cm": 168,
+      "style_archetype": "streetwear",
+      "occasion": "work",
+      "budget_usd": 250,
+      "size": "L"
+    },
+    "photo": "photos/SEED-159.png"
+  }
+]
