@@ -1,0 +1,40 @@
+#!/bin/sh
+# Refuse commits inside a Promptster assessment codespace.
+#
+# openspec codespaces-hosted-assessment §0.1a.
+#
+# WHY THIS EXISTS, and it is not about tidiness. This mirror is a PUBLIC repo you
+# do not have write access to. If you commit here, VS Code's Source Control panel
+# offers to "Create Fork" — and that fork is a PUBLIC repository on YOUR OWN
+# GitHub profile, containing your assessment work. GitHub does not let you change
+# a fork's visibility afterwards. You can only delete it.
+#
+# So a habitual `git commit` costs you a permanently-public repo under your name
+# until you notice and remove it. That is not a risk we are willing to leave to
+# whether you happen to think about it.
+#
+# YOUR WORK IS CAPTURED WITHOUT COMMITTING. Promptster records the working tree
+# and your session directly; `promptster done` submits it. Committing is not part
+# of how you are assessed and never has been.
+#
+# If you have a real reason to commit, this is a hook and not a wall:
+#   git commit --no-verify
+cat >&2 <<'MSG'
+
+  ┌────────────────────────────────────────────────────────────────────┐
+  │  Commit blocked — and you do not need to commit.                   │
+  └────────────────────────────────────────────────────────────────────┘
+
+  Your work is captured automatically. Run `promptster done` to submit.
+
+  Committing here would prompt VS Code to fork this public repo onto your
+  own GitHub profile. That fork is PUBLIC, it would contain your assessment
+  work, and GitHub does not allow changing a fork's visibility later — it
+  can only be deleted.
+
+  Nothing about committing improves your submission. It is not assessed.
+
+  If you genuinely need to:  git commit --no-verify
+
+MSG
+exit 1
